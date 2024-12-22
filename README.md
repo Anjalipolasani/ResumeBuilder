@@ -60,8 +60,6 @@ Node.js installed on your machine for running the React frontend.
 Python 3.x installed for running the Flask backend.
 Access to the Google Generative AI API (Gemini Pro) and a valid GOOGLE_GEMINI_KEY.
 1. Clone the Repository
-git clone https://github.com/yourusername/resume-builder-gemini-pro.git
-cd resume-builder
 2. Set Environment Variables
 export GOOGLE_GEMINI_KEY="your_google_gemini_api_key"
 3. Frontend Setup (React)
