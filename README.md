@@ -75,11 +75,8 @@ pip install -r requirements.txt   # Install backend dependencies
 5. Run the Flask Server
 flask run
 6. Accessing the Deployed Version
-A deployed version may be accessible at: http://34.132.65.232:3000/
 
-If running locally, use:
 
-Frontend: http://localhost:3000 Backend: http://127.0.0.1:5000
 
 Use Cases
 Career Development Centers: Help career advisors efficiently prepare students' resumes for different roles, enhancing the relevance of each application.
